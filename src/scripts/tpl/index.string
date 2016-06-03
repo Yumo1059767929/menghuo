@@ -1,0 +1,133 @@
+<div class="m-index">
+	<header>
+		<ul>
+			<li>
+				<img src="./images/ic_avatar_dot.png" />
+				<img src="./images/img_avatar.png" />
+			</li>
+			<li>
+				<span id="">萌货</span>
+			</li>
+			<li>
+				<img src="/menghuo/images/ic_search.png" />
+			</li>
+		</ul>
+	</header>
+	<section>
+		<div id="wrap">
+			<div class="banner">
+				<img src="/menghuo/images/banner.jpg" />
+			</div>
+			<div class="select">
+				<span>
+					<i><img src="/menghuo/images/ic_mission.png"/></i>
+					<b>
+						<h3>任务中心</h3>
+						<p>玩游戏赚萌币</p>
+					</b>
+				</span>
+				<span>
+					<i><img src="/menghuo/images/ic_fulishe.png"/></i>
+					<b>
+						<h3>福利社</h3>
+						<p>萌萌哒不要钱</p>
+					</b>
+				</span>
+			</div>
+			<div class="clearfix"></div>
+			<div class="katong">
+				<div class="title">
+					卡通形象
+				</div>
+				<div class="content">
+					<div class="left">
+						<img src="/menghuo/images/k1.jpg" />
+					</div>
+					<div class="right">
+						<ul>
+							<li><img src="/menghuo/images/k2.jpg" /></li>
+							<li><img src="/menghuo/images/k3.jpg" /></li>
+						</ul>
+						<ul>
+							<li><img src="/menghuo/images/k4.jpg" /></li>
+							<li><img src="/menghuo/images/k5.jpg" /></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="clearfix"></div>
+			<div class="fashion">
+				<div class="title">
+					正在流行
+				</div>
+				<div class="content">
+					<ul>
+						<li><img src="/menghuo/images/f1.jpg" /></li>
+						<li><img src="/menghuo/images/f2.jpg" /></li>
+						<li><img src="/menghuo/images/f1.jpg" /></li>
+						<li><img src="/menghuo/images/f2.jpg" /></li>
+						<li><img src="/menghuo/images/f1.jpg" /></li>
+						<li><img src="/menghuo/images/f2.jpg" /></li>
+						<li><img src="/menghuo/images/f1.jpg" /></li>
+						<li><img src="/menghuo/images/f2.jpg" /></li>
+						<li><img src="/menghuo/images/f1.jpg" /></li>
+						<li><img src="/menghuo/images/f2.jpg" /></li>
+					</ul>
+				</div>
+			</div>
+			<div id="banner">
+				<div class="title">
+					萌物志
+				</div>
+				<div class="swiper-container">
+					<div class="swiper-wrapper">
+						<div class="swiper-slide">
+							<div>
+								<img src="/menghuo/images/s1.jpg" />
+							</div>
+						</div>
+						<div class="swiper-slide">
+							<div>
+								<img src="/menghuo/images/s1.jpg" />
+							</div>
+						</div>
+						<div class="swiper-slide">
+							<div>
+								<img src="/menghuo/images/s1.jpg" />
+							</div>
+						</div>
+					</div>
+					<!-- 如果需要分页器 -->
+					<div class="swiper-pagination"></div>
+
+					<!-- 如果需要导航按钮 -->
+					<div class="swiper-button-prev"></div>
+					<div class="swiper-button-next"></div>
+
+					<!-- 如果需要滚动条 -->
+					<div class="swiper-scrollbar"></div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<footer>
+		<ul>
+			<li>
+				<i><img src="/menghuo/images/ic_main.png"/></i>
+				<b>首页</b>
+			</li>
+			<li>
+				<i><img src="/menghuo/images/ic_category.png"/></i>
+				<b>分类</b>
+			</li>
+			<li>
+				<i><img src="/menghuo/images/ic_store.png"/></i>
+				<b>萌店</b>
+			</li>
+			<li>
+				<i><img src="/menghuo/images/ic_discover.png"/></i>
+				<b>发现</b>
+			</li>
+		</ul>
+	</footer>
+</div>
